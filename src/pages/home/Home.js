@@ -3,6 +3,7 @@ import { View, StyleSheet, Image, TouchableOpacity, TextInput } from 'react-nati
 import { Icon } from 'react-native-elements';
 import BigCarousel from '../../components/BigCarousel';
 import SmallCarousel from '../../components/SmallCarousel';
+
 // import BigCarousel from '../../components/BigCarousel';
 
 export default function Home() {
